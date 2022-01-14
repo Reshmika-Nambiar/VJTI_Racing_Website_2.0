@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/VJTI_Racing_Website_2.0/static/css/main.073c9b0a.css",
-    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.a880a67a.js",
+    "main.css": "/VJTI_Racing_Website_2.0/static/css/main.03452c6d.css",
+    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.ab51ea17.js",
     "static/js/787.9750ae9a.chunk.js": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js",
+    "static/media/DSCN5657.jpg": "/VJTI_Racing_Website_2.0/static/media/DSCN5657.31a2a91754c55a0dfce4.jpg",
+    "static/media/VJTI_RACING_LOGO_w-01_cut.png": "/VJTI_Racing_Website_2.0/static/media/VJTI_RACING_LOGO_w-01_cut.b0f71702bde69487dcd0.png",
+    "static/media/manufacturing.jpg": "/VJTI_Racing_Website_2.0/static/media/manufacturing.fdd01c3e8720b27f1261.jpg",
     "index.html": "/VJTI_Racing_Website_2.0/index.html",
-    "main.073c9b0a.css.map": "/VJTI_Racing_Website_2.0/static/css/main.073c9b0a.css.map",
-    "main.a880a67a.js.map": "/VJTI_Racing_Website_2.0/static/js/main.a880a67a.js.map",
+    "main.03452c6d.css.map": "/VJTI_Racing_Website_2.0/static/css/main.03452c6d.css.map",
+    "main.ab51ea17.js.map": "/VJTI_Racing_Website_2.0/static/js/main.ab51ea17.js.map",
     "787.9750ae9a.chunk.js.map": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a880a67a.js"
+    "static/css/main.03452c6d.css",
+    "static/js/main.ab51ea17.js"
   ]
 }
