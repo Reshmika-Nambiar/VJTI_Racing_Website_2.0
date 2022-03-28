@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VJTI_Racing_Website_2.0/static/css/main.3ff083eb.css",
-    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.fadff54f.js",
+    "main.css": "/VJTI_Racing_Website_2.0/static/css/main.9c2f4dd1.css",
+    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.287beec7.js",
     "static/js/787.9750ae9a.chunk.js": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js",
     "static/media/Track5.png": "/VJTI_Racing_Website_2.0/static/media/Track5.92a87d4788c1c6a54d5f.png",
     "static/media/VJTI_Racing_Sponsorship_Brochure_2021-22.pdf": "/VJTI_Racing_Website_2.0/static/media/VJTI_Racing_Sponsorship_Brochure_2021-22.1b588d7a56bd566ae9a3.pdf",
@@ -46,12 +46,12 @@
     "static/media/ProspectGears.jfif": "/VJTI_Racing_Website_2.0/static/media/ProspectGears.5a6322f62524141c6e7b.jfif",
     "static/media/Greenway.jfif": "/VJTI_Racing_Website_2.0/static/media/Greenway.f662ae31a91a985224f0.jfif",
     "index.html": "/VJTI_Racing_Website_2.0/index.html",
-    "main.3ff083eb.css.map": "/VJTI_Racing_Website_2.0/static/css/main.3ff083eb.css.map",
-    "main.fadff54f.js.map": "/VJTI_Racing_Website_2.0/static/js/main.fadff54f.js.map",
+    "main.9c2f4dd1.css.map": "/VJTI_Racing_Website_2.0/static/css/main.9c2f4dd1.css.map",
+    "main.287beec7.js.map": "/VJTI_Racing_Website_2.0/static/js/main.287beec7.js.map",
     "787.9750ae9a.chunk.js.map": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ff083eb.css",
-    "static/js/main.fadff54f.js"
+    "static/css/main.9c2f4dd1.css",
+    "static/js/main.287beec7.js"
   ]
 }
