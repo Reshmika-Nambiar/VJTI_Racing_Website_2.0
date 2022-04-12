@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VJTI_Racing_Website_2.0/static/css/main.16d72cd0.css",
-    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.ce905f88.js",
+    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.43cb0874.js",
     "static/js/787.9750ae9a.chunk.js": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js",
     "static/media/Brochure2022.pdf": "/VJTI_Racing_Website_2.0/static/media/Brochure2022.333398f82ff1a464e333.pdf",
     "static/media/VRWeb2.mp4": "/VJTI_Racing_Website_2.0/static/media/VRWeb2.2ec130b3fd34e2f72c61.mp4",
@@ -36,8 +36,12 @@
     "static/media/img13.jpg": "/VJTI_Racing_Website_2.0/static/media/img13.948a27327de1a1e92ed9.jpg",
     "static/media/bigaward.jpg": "/VJTI_Racing_Website_2.0/static/media/bigaward.cf4658a3535279e6da05.jpg",
     "static/media/Arbes.PNG": "/VJTI_Racing_Website_2.0/static/media/Arbes.8cb3e29b787f5264acaa.PNG",
+    "static/media/IMG_0085.JPG": "/VJTI_Racing_Website_2.0/static/media/IMG_0085.7094d2a98fdcd7554eef.JPG",
     "static/media/Srushtee_Padwal.jpg": "/VJTI_Racing_Website_2.0/static/media/Srushtee_Padwal.370f36b9d69b2f5f26c4.jpg",
+    "static/media/100_6524.JPG": "/VJTI_Racing_Website_2.0/static/media/100_6524.fbb6e5cc62923ffc979d.JPG",
     "static/media/Reshmika_Nambiar.jpeg": "/VJTI_Racing_Website_2.0/static/media/Reshmika_Nambiar.825233d73262a10d107d.jpeg",
+    "static/media/100_6528.JPG": "/VJTI_Racing_Website_2.0/static/media/100_6528.388f7150fb3a3ab800a7.JPG",
+    "static/media/100E6283.JPG": "/VJTI_Racing_Website_2.0/static/media/100E6283.9093622d550a1d2e1a55.JPG",
     "static/media/PrecisionCut.PNG": "/VJTI_Racing_Website_2.0/static/media/PrecisionCut.7fb8b62e65a79f6b1119.PNG",
     "static/media/ANS.jpeg": "/VJTI_Racing_Website_2.0/static/media/ANS.d3bce4f04b705da6486b.jpeg",
     "static/media/award2.jpg": "/VJTI_Racing_Website_2.0/static/media/award2.80d0867390f0ef83e366.jpg",
@@ -105,11 +109,11 @@
     "static/media/Greenway.jfif": "/VJTI_Racing_Website_2.0/static/media/Greenway.f662ae31a91a985224f0.jfif",
     "index.html": "/VJTI_Racing_Website_2.0/index.html",
     "main.16d72cd0.css.map": "/VJTI_Racing_Website_2.0/static/css/main.16d72cd0.css.map",
-    "main.ce905f88.js.map": "/VJTI_Racing_Website_2.0/static/js/main.ce905f88.js.map",
+    "main.43cb0874.js.map": "/VJTI_Racing_Website_2.0/static/js/main.43cb0874.js.map",
     "787.9750ae9a.chunk.js.map": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16d72cd0.css",
-    "static/js/main.ce905f88.js"
+    "static/js/main.43cb0874.js"
   ]
 }
