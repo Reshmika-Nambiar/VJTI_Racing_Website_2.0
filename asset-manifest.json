@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VJTI_Racing_Website_2.0/static/css/main.16d72cd0.css",
-    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.43cb0874.js",
+    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.f4e21d47.js",
     "static/js/787.9750ae9a.chunk.js": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js",
     "static/media/Brochure2022.pdf": "/VJTI_Racing_Website_2.0/static/media/Brochure2022.333398f82ff1a464e333.pdf",
     "static/media/VRWeb2.mp4": "/VJTI_Racing_Website_2.0/static/media/VRWeb2.2ec130b3fd34e2f72c61.mp4",
@@ -77,6 +77,7 @@
     "static/media/FundTonic.PNG": "/VJTI_Racing_Website_2.0/static/media/FundTonic.e41f1a4f8fa42a18a706.PNG",
     "static/media/Tejas_Pagare.jpg": "/VJTI_Racing_Website_2.0/static/media/Tejas_Pagare.89dec7cb4cea9ea936c4.jpg",
     "static/media/Mrutyunjay_Chinchole_Joint_General_Secretary.jpg": "/VJTI_Racing_Website_2.0/static/media/Mrutyunjay_Chinchole_Joint_General_Secretary.761ff85612e34fd24f81.jpg",
+    "static/media/SEW.jpeg": "/VJTI_Racing_Website_2.0/static/media/SEW.3831a552ab44ce2beb38.jpeg",
     "static/media/Raymond.png": "/VJTI_Racing_Website_2.0/static/media/Raymond.affd3c047a1da45e26a0.png",
     "static/media/FederalBank.png": "/VJTI_Racing_Website_2.0/static/media/FederalBank.d294d691336924838fab.png",
     "static/media/RCI.PNG": "/VJTI_Racing_Website_2.0/static/media/RCI.e04622c03e5936f34c10.PNG",
@@ -109,11 +110,11 @@
     "static/media/Greenway.jfif": "/VJTI_Racing_Website_2.0/static/media/Greenway.f662ae31a91a985224f0.jfif",
     "index.html": "/VJTI_Racing_Website_2.0/index.html",
     "main.16d72cd0.css.map": "/VJTI_Racing_Website_2.0/static/css/main.16d72cd0.css.map",
-    "main.43cb0874.js.map": "/VJTI_Racing_Website_2.0/static/js/main.43cb0874.js.map",
+    "main.f4e21d47.js.map": "/VJTI_Racing_Website_2.0/static/js/main.f4e21d47.js.map",
     "787.9750ae9a.chunk.js.map": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16d72cd0.css",
-    "static/js/main.43cb0874.js"
+    "static/js/main.f4e21d47.js"
   ]
 }
