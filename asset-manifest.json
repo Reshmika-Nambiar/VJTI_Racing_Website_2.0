@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/VJTI_Racing_Website_2.0/static/css/main.b81b716b.css",
-    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.49b6f714.js",
+    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.044adaa9.js",
     "static/js/787.9750ae9a.chunk.js": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js",
     "static/media/Brochure2022.pdf": "/VJTI_Racing_Website_2.0/static/media/Brochure2022.333398f82ff1a464e333.pdf",
     "static/media/VRWeb2.mp4": "/VJTI_Racing_Website_2.0/static/media/VRWeb2.2ec130b3fd34e2f72c61.mp4",
-    "static/media/TeamTShirt2023.png": "/VJTI_Racing_Website_2.0/static/media/TeamTShirt2023.89a52973b7aa125464f0.png",
+    "static/media/TeamTShirt2023.jpg": "/VJTI_Racing_Website_2.0/static/media/TeamTShirt2023.a70e1ffeedd656ef3ba3.jpg",
     "static/media/Track5.png": "/VJTI_Racing_Website_2.0/static/media/Track5.92a87d4788c1c6a54d5f.png",
     "static/media/testimg1.png": "/VJTI_Racing_Website_2.0/static/media/testimg1.92a87d4788c1c6a54d5f.png",
     "static/media/Ninad_Chaulamwar.jpeg": "/VJTI_Racing_Website_2.0/static/media/Ninad_Chaulamwar.3937b5b496031b70a1c6.jpeg",
@@ -112,11 +112,11 @@
     "static/media/Greenway.jfif": "/VJTI_Racing_Website_2.0/static/media/Greenway.f662ae31a91a985224f0.jfif",
     "index.html": "/VJTI_Racing_Website_2.0/index.html",
     "main.b81b716b.css.map": "/VJTI_Racing_Website_2.0/static/css/main.b81b716b.css.map",
-    "main.49b6f714.js.map": "/VJTI_Racing_Website_2.0/static/js/main.49b6f714.js.map",
+    "main.044adaa9.js.map": "/VJTI_Racing_Website_2.0/static/js/main.044adaa9.js.map",
     "787.9750ae9a.chunk.js.map": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b81b716b.css",
-    "static/js/main.49b6f714.js"
+    "static/js/main.044adaa9.js"
   ]
 }
