@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VJTI_Racing_Website_2.0/static/css/main.b81b716b.css",
-    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.044adaa9.js",
+    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.ec1e314a.js",
     "static/js/787.9750ae9a.chunk.js": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js",
     "static/media/Brochure2022.pdf": "/VJTI_Racing_Website_2.0/static/media/Brochure2022.333398f82ff1a464e333.pdf",
     "static/media/VRWeb2.mp4": "/VJTI_Racing_Website_2.0/static/media/VRWeb2.2ec130b3fd34e2f72c61.mp4",
@@ -112,11 +112,11 @@
     "static/media/Greenway.jfif": "/VJTI_Racing_Website_2.0/static/media/Greenway.f662ae31a91a985224f0.jfif",
     "index.html": "/VJTI_Racing_Website_2.0/index.html",
     "main.b81b716b.css.map": "/VJTI_Racing_Website_2.0/static/css/main.b81b716b.css.map",
-    "main.044adaa9.js.map": "/VJTI_Racing_Website_2.0/static/js/main.044adaa9.js.map",
+    "main.ec1e314a.js.map": "/VJTI_Racing_Website_2.0/static/js/main.ec1e314a.js.map",
     "787.9750ae9a.chunk.js.map": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b81b716b.css",
-    "static/js/main.044adaa9.js"
+    "static/js/main.ec1e314a.js"
   ]
 }
