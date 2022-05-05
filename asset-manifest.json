@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VJTI_Racing_Website_2.0/static/css/main.727fddc3.css",
-    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.67f9de16.js",
+    "main.js": "/VJTI_Racing_Website_2.0/static/js/main.39d807c6.js",
     "static/js/787.9750ae9a.chunk.js": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js",
     "static/media/Brochure2022.pdf": "/VJTI_Racing_Website_2.0/static/media/Brochure2022.333398f82ff1a464e333.pdf",
     "static/media/VRWeb2.mp4": "/VJTI_Racing_Website_2.0/static/media/VRWeb2.2ec130b3fd34e2f72c61.mp4",
@@ -12,6 +12,7 @@
     "static/media/testimg2.png": "/VJTI_Racing_Website_2.0/static/media/testimg2.0f6020c1ef0a520f1aaa.png",
     "static/media/Spartan.png": "/VJTI_Racing_Website_2.0/static/media/Spartan.a1775d04a961e8a01423.png",
     "static/media/Kushal_Sarda.jpg": "/VJTI_Racing_Website_2.0/static/media/Kushal_Sarda.9a18b8b570d08eca274b.jpg",
+    "static/media/ReenaEnterprise.png": "/VJTI_Racing_Website_2.0/static/media/ReenaEnterprise.524da89342c2fcf2158f.png",
     "static/media/Rajat_Patil.jpg": "/VJTI_Racing_Website_2.0/static/media/Rajat_Patil.69978aa7cfe66d455743.jpg",
     "static/media/Track6.jpg": "/VJTI_Racing_Website_2.0/static/media/Track6.4a03b9b05b9b727f45f6.jpg",
     "static/media/testimg3.jpg": "/VJTI_Racing_Website_2.0/static/media/testimg3.4a03b9b05b9b727f45f6.jpg",
@@ -114,11 +115,11 @@
     "static/media/Greenway.jfif": "/VJTI_Racing_Website_2.0/static/media/Greenway.f662ae31a91a985224f0.jfif",
     "index.html": "/VJTI_Racing_Website_2.0/index.html",
     "main.727fddc3.css.map": "/VJTI_Racing_Website_2.0/static/css/main.727fddc3.css.map",
-    "main.67f9de16.js.map": "/VJTI_Racing_Website_2.0/static/js/main.67f9de16.js.map",
+    "main.39d807c6.js.map": "/VJTI_Racing_Website_2.0/static/js/main.39d807c6.js.map",
     "787.9750ae9a.chunk.js.map": "/VJTI_Racing_Website_2.0/static/js/787.9750ae9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.727fddc3.css",
-    "static/js/main.67f9de16.js"
+    "static/js/main.39d807c6.js"
   ]
 }
